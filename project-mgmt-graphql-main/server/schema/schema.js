@@ -1,3 +1,5 @@
+// this will define how it returns values
+
 const Project = require('../models/Project');
 const Client = require('../models/Client');
 
